@@ -1,0 +1,11 @@
+C:\Users\arona22\Documents\ar_3\haust\vef\final\task-blaster\TaskBlaster.TaskManagement\TaskBlaster.TaskManagement.Models\bin\Debug\net8.0\TaskBlaster.TaskManagement.Models.deps.json
+C:\Users\arona22\Documents\ar_3\haust\vef\final\task-blaster\TaskBlaster.TaskManagement\TaskBlaster.TaskManagement.Models\bin\Debug\net8.0\TaskBlaster.TaskManagement.Models.dll
+C:\Users\arona22\Documents\ar_3\haust\vef\final\task-blaster\TaskBlaster.TaskManagement\TaskBlaster.TaskManagement.Models\bin\Debug\net8.0\TaskBlaster.TaskManagement.Models.pdb
+C:\Users\arona22\Documents\ar_3\haust\vef\final\task-blaster\TaskBlaster.TaskManagement\TaskBlaster.TaskManagement.Models\obj\Debug\net8.0\TaskBlaster.TaskManagement.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arona22\Documents\ar_3\haust\vef\final\task-blaster\TaskBlaster.TaskManagement\TaskBlaster.TaskManagement.Models\obj\Debug\net8.0\TaskBlaster.TaskManagement.Models.AssemblyInfoInputs.cache
+C:\Users\arona22\Documents\ar_3\haust\vef\final\task-blaster\TaskBlaster.TaskManagement\TaskBlaster.TaskManagement.Models\obj\Debug\net8.0\TaskBlaster.TaskManagement.Models.AssemblyInfo.cs
+C:\Users\arona22\Documents\ar_3\haust\vef\final\task-blaster\TaskBlaster.TaskManagement\TaskBlaster.TaskManagement.Models\obj\Debug\net8.0\TaskBlaster.TaskManagement.Models.csproj.CoreCompileInputs.cache
+C:\Users\arona22\Documents\ar_3\haust\vef\final\task-blaster\TaskBlaster.TaskManagement\TaskBlaster.TaskManagement.Models\obj\Debug\net8.0\TaskBlaster.TaskManagement.Models.dll
+C:\Users\arona22\Documents\ar_3\haust\vef\final\task-blaster\TaskBlaster.TaskManagement\TaskBlaster.TaskManagement.Models\obj\Debug\net8.0\refint\TaskBlaster.TaskManagement.Models.dll
+C:\Users\arona22\Documents\ar_3\haust\vef\final\task-blaster\TaskBlaster.TaskManagement\TaskBlaster.TaskManagement.Models\obj\Debug\net8.0\TaskBlaster.TaskManagement.Models.pdb
+C:\Users\arona22\Documents\ar_3\haust\vef\final\task-blaster\TaskBlaster.TaskManagement\TaskBlaster.TaskManagement.Models\obj\Debug\net8.0\ref\TaskBlaster.TaskManagement.Models.dll

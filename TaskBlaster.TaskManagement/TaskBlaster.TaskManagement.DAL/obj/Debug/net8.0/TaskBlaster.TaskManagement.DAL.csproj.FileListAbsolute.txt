@@ -1,0 +1,17 @@
+C:\Users\arona22\Documents\ar_3\haust\vef\final\task-blaster\TaskBlaster.TaskManagement\TaskBlaster.TaskManagement.DAL\bin\Debug\net8.0\TaskBlaster.TaskManagement.DAL.deps.json
+C:\Users\arona22\Documents\ar_3\haust\vef\final\task-blaster\TaskBlaster.TaskManagement\TaskBlaster.TaskManagement.DAL\bin\Debug\net8.0\TaskBlaster.TaskManagement.DAL.runtimeconfig.json
+C:\Users\arona22\Documents\ar_3\haust\vef\final\task-blaster\TaskBlaster.TaskManagement\TaskBlaster.TaskManagement.DAL\bin\Debug\net8.0\TaskBlaster.TaskManagement.DAL.dll
+C:\Users\arona22\Documents\ar_3\haust\vef\final\task-blaster\TaskBlaster.TaskManagement\TaskBlaster.TaskManagement.DAL\bin\Debug\net8.0\TaskBlaster.TaskManagement.DAL.pdb
+C:\Users\arona22\Documents\ar_3\haust\vef\final\task-blaster\TaskBlaster.TaskManagement\TaskBlaster.TaskManagement.DAL\bin\Debug\net8.0\TaskBlaster.TaskManagement.Models.dll
+C:\Users\arona22\Documents\ar_3\haust\vef\final\task-blaster\TaskBlaster.TaskManagement\TaskBlaster.TaskManagement.DAL\bin\Debug\net8.0\TaskBlaster.TaskManagement.Models.pdb
+C:\Users\arona22\Documents\ar_3\haust\vef\final\task-blaster\TaskBlaster.TaskManagement\TaskBlaster.TaskManagement.DAL\obj\Debug\net8.0\TaskBlaster.TaskManagement.DAL.csproj.AssemblyReference.cache
+C:\Users\arona22\Documents\ar_3\haust\vef\final\task-blaster\TaskBlaster.TaskManagement\TaskBlaster.TaskManagement.DAL\obj\Debug\net8.0\TaskBlaster.TaskManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arona22\Documents\ar_3\haust\vef\final\task-blaster\TaskBlaster.TaskManagement\TaskBlaster.TaskManagement.DAL\obj\Debug\net8.0\TaskBlaster.TaskManagement.DAL.AssemblyInfoInputs.cache
+C:\Users\arona22\Documents\ar_3\haust\vef\final\task-blaster\TaskBlaster.TaskManagement\TaskBlaster.TaskManagement.DAL\obj\Debug\net8.0\TaskBlaster.TaskManagement.DAL.AssemblyInfo.cs
+C:\Users\arona22\Documents\ar_3\haust\vef\final\task-blaster\TaskBlaster.TaskManagement\TaskBlaster.TaskManagement.DAL\obj\Debug\net8.0\TaskBlaster.TaskManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\arona22\Documents\ar_3\haust\vef\final\task-blaster\TaskBlaster.TaskManagement\TaskBlaster.TaskManagement.DAL\obj\Debug\net8.0\TaskBlas.5D0AF354.Up2Date
+C:\Users\arona22\Documents\ar_3\haust\vef\final\task-blaster\TaskBlaster.TaskManagement\TaskBlaster.TaskManagement.DAL\obj\Debug\net8.0\TaskBlaster.TaskManagement.DAL.dll
+C:\Users\arona22\Documents\ar_3\haust\vef\final\task-blaster\TaskBlaster.TaskManagement\TaskBlaster.TaskManagement.DAL\obj\Debug\net8.0\refint\TaskBlaster.TaskManagement.DAL.dll
+C:\Users\arona22\Documents\ar_3\haust\vef\final\task-blaster\TaskBlaster.TaskManagement\TaskBlaster.TaskManagement.DAL\obj\Debug\net8.0\TaskBlaster.TaskManagement.DAL.pdb
+C:\Users\arona22\Documents\ar_3\haust\vef\final\task-blaster\TaskBlaster.TaskManagement\TaskBlaster.TaskManagement.DAL\obj\Debug\net8.0\TaskBlaster.TaskManagement.DAL.genruntimeconfig.cache
+C:\Users\arona22\Documents\ar_3\haust\vef\final\task-blaster\TaskBlaster.TaskManagement\TaskBlaster.TaskManagement.DAL\obj\Debug\net8.0\ref\TaskBlaster.TaskManagement.DAL.dll

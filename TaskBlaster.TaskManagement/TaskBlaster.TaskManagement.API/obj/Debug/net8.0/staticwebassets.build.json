@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GXghpPJgHVyMwVu4SF1G3O99XgahMlCiMnV2gDI8pqs=",
+  "Source": "TaskBlaster.TaskManagement.API",
+  "BasePath": "_content/TaskBlaster.TaskManagement.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
