@@ -1,0 +1,75 @@
+services:
+  task-db:
+    image: postgres:latest
+    container_name: task-db
+    hostname: task-db
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=123
+      - POSTGRES_DB=task_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - task_db_data:/var/lib/postgresql/data
+
+  hangfire-db:
+    image: postgres:latest
+    container_name: hangfire-db
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=123
+      - POSTGRES_DB=hangfire_db
+    ports:
+      - "5433:5432"
+    volumes:
+      - hangfire_db_data:/var/lib/postgresql/data
+
+  tasks-api:
+    build:
+      context: .
+      dockerfile: TaskBlaster.TaskManagement/TaskBlaster.TaskManagement.API/Dockerfile
+    container_name: tasks-api
+    environment:
+      - ConnectionStrings__TaskManagementDb=Host=task-db;Port=5432;Database=task_db;Username=postgres;Password=123;TimeZone=UTC
+    depends_on:
+      - task-db
+    ports:
+      - "8090:8080"
+
+  notifications-api:
+    build:
+      context: .
+      dockerfile: TaskBlaster.TaskManagement/TaskBlaster.TaskManagement.Notifications/Dockerfile
+    container_name: notifications-api
+    environment:
+      - ConnectionStrings__TaskManagementDb=Host=task-db;Port=5432;Database=task_db;Username=postgres;Password=123;TimeZone=UTC
+      - ConnectionStrings__HangfireDb=Host=hangfire-db;Port=5432;Database=hangfire_db;Username=postgres;Password=123;TimeZone=UTC
+    depends_on:
+      - task-db
+      - hangfire-db
+    ports:
+      - "8091:8080"
+
+  migrator:
+    image: mcr.microsoft.com/dotnet/sdk:8.0
+    working_dir: /app/TaskBlaster.TaskManagement/TaskBlaster.TaskManagement.API
+    volumes:
+      - .:/app
+      - ./migrate.sh:/app/migrate.sh 
+    environment:
+      - ConnectionStrings__TaskManagementDb=Host=task-db;Port=5432;Database=task_db;Username=postgres;Password=123;TimeZone=UTC
+    entrypoint: /bin/sh -c "/app/migrate.sh"
+    depends_on:
+      - task-db
+
+  task-web:
+    build:
+      context: .
+      dockerfile: taskblaster-web/Dockerfile
+    container_name: task-web
+    ports:
+      - "3000:3000"
+
+volumes:
+  task_db_data:
+  hangfire_db_data:
